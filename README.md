@@ -2,7 +2,7 @@
 
 [![codewars](https://www.codewars.com/users/SHURSHALO/badges/small)](https://www.codewars.com/users/username) 
 
-(https://www.codewars.com/users/SHURSHALO/badges/small)
+
 
 
 ### Используемыемые браузеры:
