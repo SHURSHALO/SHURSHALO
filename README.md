@@ -2,9 +2,7 @@
 
 ### Привет, меня зовут Родион. Добро пожаловать на мой профиль!
 
-
-
-[![codewars](https://www.codewars.com/users/SHURSHALO/badges/large)](https://www.codewars.com/users/SHURSHALO)
+### [![codewars](https://www.codewars.com/users/SHURSHALO/badges/large)](https://www.codewars.com/users/SHURSHALO)
 
 ### Используемыемые браузеры:
 ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
