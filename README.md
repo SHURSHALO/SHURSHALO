@@ -12,5 +12,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SHURSHALO&layout=compact)](https://github.com/SHURSHALO/github-readme-stats)
 
-
-<img src="https://github.com/SHURSHALO/readme-jokes.app/api" alt="Jokes Card" />
