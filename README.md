@@ -13,4 +13,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SHURSHALO&layout=compact)](https://github.com/SHURSHALO/github-readme-stats)
 
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+<img src="https://github.com/SHURSHALO/readme-jokes.app/api" alt="Jokes Card" />
